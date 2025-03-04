@@ -1,2 +1,2 @@
 # credit
-Using clustering to determine the risk involved in lending customers
+Segmenting credit consumers using clustering analysis to understand their financial behavior and tailor marketing strategies
